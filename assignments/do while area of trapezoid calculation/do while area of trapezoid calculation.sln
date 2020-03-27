@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "do while area of trapezoid calculation", "do while area of trapezoid calculation\do while area of trapezoid calculation.csproj", "{3C4854C9-790D-4C6D-8A37-E8D39429E26B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C4854C9-790D-4C6D-8A37-E8D39429E26B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C4854C9-790D-4C6D-8A37-E8D39429E26B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C4854C9-790D-4C6D-8A37-E8D39429E26B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C4854C9-790D-4C6D-8A37-E8D39429E26B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC9E0EDF-049A-45F1-8BC3-CE5969CF3D6C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\area of a trapezoid with if else statement\area of a trapezoid with if else statement\bin\Debug\area of a trapezoid with if else statement.exe.config
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\area of a trapezoid with if else statement\area of a trapezoid with if else statement\bin\Debug\area of a trapezoid with if else statement.exe
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\area of a trapezoid with if else statement\area of a trapezoid with if else statement\bin\Debug\area of a trapezoid with if else statement.pdb
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\area of a trapezoid with if else statement\area of a trapezoid with if else statement\obj\Debug\area of a trapezoid with if else statement.csprojAssemblyReference.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\area of a trapezoid with if else statement\area of a trapezoid with if else statement\obj\Debug\area of a trapezoid with if else statement.csproj.CoreCompileInputs.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\area of a trapezoid with if else statement\area of a trapezoid with if else statement\obj\Debug\area of a trapezoid with if else statement.exe
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\area of a trapezoid with if else statement\area of a trapezoid with if else statement\obj\Debug\area of a trapezoid with if else statement.pdb

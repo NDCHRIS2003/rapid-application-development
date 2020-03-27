@@ -1,0 +1,7 @@
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\do while area of trapezoid calculation\do while area of trapezoid calculation\bin\Debug\do while area of trapezoid calculation.exe.config
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\do while area of trapezoid calculation\do while area of trapezoid calculation\bin\Debug\do while area of trapezoid calculation.exe
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\do while area of trapezoid calculation\do while area of trapezoid calculation\bin\Debug\do while area of trapezoid calculation.pdb
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\do while area of trapezoid calculation\do while area of trapezoid calculation\obj\Debug\do while area of trapezoid calculation.csprojAssemblyReference.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\do while area of trapezoid calculation\do while area of trapezoid calculation\obj\Debug\do while area of trapezoid calculation.csproj.CoreCompileInputs.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\do while area of trapezoid calculation\do while area of trapezoid calculation\obj\Debug\do while area of trapezoid calculation.exe
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\do while area of trapezoid calculation\do while area of trapezoid calculation\obj\Debug\do while area of trapezoid calculation.pdb

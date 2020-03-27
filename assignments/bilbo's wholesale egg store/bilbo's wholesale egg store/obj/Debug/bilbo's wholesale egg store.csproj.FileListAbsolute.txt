@@ -1,0 +1,7 @@
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\bilbo's wholesale egg store\bilbo's wholesale egg store\bin\Debug\bilbo's wholesale egg store.exe.config
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\bilbo's wholesale egg store\bilbo's wholesale egg store\bin\Debug\bilbo's wholesale egg store.exe
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\bilbo's wholesale egg store\bilbo's wholesale egg store\bin\Debug\bilbo's wholesale egg store.pdb
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\bilbo's wholesale egg store\bilbo's wholesale egg store\obj\Debug\bilbo's wholesale egg store.csprojAssemblyReference.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\bilbo's wholesale egg store\bilbo's wholesale egg store\obj\Debug\bilbo's wholesale egg store.csproj.CoreCompileInputs.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\bilbo's wholesale egg store\bilbo's wholesale egg store\obj\Debug\bilbo's wholesale egg store.exe
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\bilbo's wholesale egg store\bilbo's wholesale egg store\obj\Debug\bilbo's wholesale egg store.pdb

@@ -1,0 +1,7 @@
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\compound interest investment version 1\compound interest investment version 1\bin\Debug\compound interest investment version 1.exe.config
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\compound interest investment version 1\compound interest investment version 1\bin\Debug\compound interest investment version 1.exe
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\compound interest investment version 1\compound interest investment version 1\bin\Debug\compound interest investment version 1.pdb
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\compound interest investment version 1\compound interest investment version 1\obj\Debug\compound interest investment version 1.csprojAssemblyReference.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\compound interest investment version 1\compound interest investment version 1\obj\Debug\compound interest investment version 1.csproj.CoreCompileInputs.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\compound interest investment version 1\compound interest investment version 1\obj\Debug\compound interest investment version 1.exe
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\compound interest investment version 1\compound interest investment version 1\obj\Debug\compound interest investment version 1.pdb
