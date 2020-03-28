@@ -41,7 +41,8 @@ namespace compound_interest_investment_version_1
             {
                 principal = principal * (1 + interestRate);
                 counter += 1;
-                Console.WriteLine($"{counter}                {principal:N2}");    // this is to output the compound interest          }
+                Console.WriteLine($"{counter}                {principal:N2}");    // this is to output the compound interest         
+            }
            
 
 

@@ -22,7 +22,7 @@ namespace investment_version_2_compound_interest
             Console.WriteLine("Please provide the following details");
             float principal;                               // this will store the value of the principal amount
             float interestRate;                            // this will store the value of the interest rate            
-            float compoundInterest;                        // this will store the value of the compound interest
+            float compoundInterest = 1000;                        // this will store the value of the compound interest
             float averageYearlyIncome;                     // this will store the value of the income
 
             // Ask the user to input the values of principal amount and the initial interest rate in percent
@@ -30,11 +30,8 @@ namespace investment_version_2_compound_interest
             principal = float.Parse(Console.ReadLine());
 
             Console.Write("What is the initial interest rate (in percent)?: ");
-            interestRate = float.Parse(Console.ReadLine()) / 100; 
+            interestRate = float.Parse(Console.ReadLine()) / 100;             
             
-            // set the the principal amount to 1000
-            compoundInterest = 1000;
-
             // introducing a sentinel control loop and ask the user to provide interest rate of each year
             while (interestRate != 0)                                                
             {

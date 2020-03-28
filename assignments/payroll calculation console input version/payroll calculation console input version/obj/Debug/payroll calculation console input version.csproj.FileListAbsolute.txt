@@ -1,0 +1,7 @@
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\payroll calculation console input version\payroll calculation console input version\bin\Debug\payroll calculation console input version.exe.config
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\payroll calculation console input version\payroll calculation console input version\bin\Debug\payroll calculation console input version.exe
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\payroll calculation console input version\payroll calculation console input version\bin\Debug\payroll calculation console input version.pdb
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\payroll calculation console input version\payroll calculation console input version\obj\Debug\payroll calculation console input version.csprojAssemblyReference.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\payroll calculation console input version\payroll calculation console input version\obj\Debug\payroll calculation console input version.csproj.CoreCompileInputs.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\payroll calculation console input version\payroll calculation console input version\obj\Debug\payroll calculation console input version.exe
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\payroll calculation console input version\payroll calculation console input version\obj\Debug\payroll calculation console input version.pdb

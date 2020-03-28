@@ -1,0 +1,7 @@
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\Tech Support\Tech Support\bin\Debug\Tech Support.exe.config
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\Tech Support\Tech Support\bin\Debug\Tech Support.exe
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\Tech Support\Tech Support\bin\Debug\Tech Support.pdb
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\Tech Support\Tech Support\obj\Debug\Tech Support.csprojAssemblyReference.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\Tech Support\Tech Support\obj\Debug\Tech Support.csproj.CoreCompileInputs.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\Tech Support\Tech Support\obj\Debug\Tech Support.exe
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\Tech Support\Tech Support\obj\Debug\Tech Support.pdb
