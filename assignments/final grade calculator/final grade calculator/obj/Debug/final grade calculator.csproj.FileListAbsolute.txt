@@ -1,0 +1,10 @@
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\final grade calculator\final grade calculator\bin\Debug\final grade calculator.exe.config
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\final grade calculator\final grade calculator\bin\Debug\final grade calculator.exe
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\final grade calculator\final grade calculator\bin\Debug\final grade calculator.pdb
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\final grade calculator\final grade calculator\obj\Debug\final grade calculator.csprojAssemblyReference.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\final grade calculator\final grade calculator\obj\Debug\final_grade_calculator.MainForm.resources
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\final grade calculator\final grade calculator\obj\Debug\final_grade_calculator.Properties.Resources.resources
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\final grade calculator\final grade calculator\obj\Debug\final grade calculator.csproj.GenerateResource.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\final grade calculator\final grade calculator\obj\Debug\final grade calculator.csproj.CoreCompileInputs.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\final grade calculator\final grade calculator\obj\Debug\final grade calculator.exe
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\final grade calculator\final grade calculator\obj\Debug\final grade calculator.pdb

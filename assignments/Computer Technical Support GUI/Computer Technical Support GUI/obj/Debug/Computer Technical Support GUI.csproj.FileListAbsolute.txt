@@ -1,0 +1,10 @@
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\Computer Technical Support GUI\Computer Technical Support GUI\bin\Debug\Computer Technical Support GUI.exe.config
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\Computer Technical Support GUI\Computer Technical Support GUI\bin\Debug\Computer Technical Support GUI.exe
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\Computer Technical Support GUI\Computer Technical Support GUI\bin\Debug\Computer Technical Support GUI.pdb
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\Computer Technical Support GUI\Computer Technical Support GUI\obj\Debug\Computer Technical Support GUI.csprojAssemblyReference.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\Computer Technical Support GUI\Computer Technical Support GUI\obj\Debug\Computer_Technical_Support_GUI.GUITechSupport.resources
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\Computer Technical Support GUI\Computer Technical Support GUI\obj\Debug\Computer_Technical_Support_GUI.Properties.Resources.resources
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\Computer Technical Support GUI\Computer Technical Support GUI\obj\Debug\Computer Technical Support GUI.csproj.GenerateResource.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\Computer Technical Support GUI\Computer Technical Support GUI\obj\Debug\Computer Technical Support GUI.csproj.CoreCompileInputs.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\Computer Technical Support GUI\Computer Technical Support GUI\obj\Debug\Computer Technical Support GUI.exe
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\Computer Technical Support GUI\Computer Technical Support GUI\obj\Debug\Computer Technical Support GUI.pdb

@@ -1,0 +1,10 @@
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\GUI Trapezoid Area\GUI Trapezoid Area\bin\Debug\GUI Trapezoid Area.exe.config
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\GUI Trapezoid Area\GUI Trapezoid Area\bin\Debug\GUI Trapezoid Area.exe
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\GUI Trapezoid Area\GUI Trapezoid Area\bin\Debug\GUI Trapezoid Area.pdb
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\GUI Trapezoid Area\GUI Trapezoid Area\obj\Debug\GUI Trapezoid Area.csprojAssemblyReference.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\GUI Trapezoid Area\GUI Trapezoid Area\obj\Debug\GUI_Trapezoid_Area.MainForm.resources
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\GUI Trapezoid Area\GUI Trapezoid Area\obj\Debug\GUI_Trapezoid_Area.Properties.Resources.resources
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\GUI Trapezoid Area\GUI Trapezoid Area\obj\Debug\GUI Trapezoid Area.csproj.GenerateResource.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\GUI Trapezoid Area\GUI Trapezoid Area\obj\Debug\GUI Trapezoid Area.csproj.CoreCompileInputs.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\GUI Trapezoid Area\GUI Trapezoid Area\obj\Debug\GUI Trapezoid Area.exe
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\GUI Trapezoid Area\GUI Trapezoid Area\obj\Debug\GUI Trapezoid Area.pdb

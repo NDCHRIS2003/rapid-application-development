@@ -1,0 +1,14 @@
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\computer technical support program\computer technical support program\obj\Debug\computer technical support program.csprojAssemblyReference.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\computer technical support program\computer technical support program\obj\Debug\computer technical support program.csproj.CoreCompileInputs.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\computer technical support program\computer technical support program\bin\Debug\computer technical support program.exe.config
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\computer technical support program\computer technical support program\bin\Debug\computer technical support program.exe
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\computer technical support program\computer technical support program\bin\Debug\computer technical support program.pdb
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\computer technical support program\computer technical support program\obj\Debug\computer technical support program.exe
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\computer technical support program\computer technical support program\obj\Debug\computer technical support program.pdb
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\main computer technical support program\computer technical support program\bin\Debug\computer technical support program.exe.config
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\main computer technical support program\computer technical support program\bin\Debug\computer technical support program.exe
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\main computer technical support program\computer technical support program\bin\Debug\computer technical support program.pdb
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\main computer technical support program\computer technical support program\obj\Debug\computer technical support program.csprojAssemblyReference.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\main computer technical support program\computer technical support program\obj\Debug\computer technical support program.csproj.CoreCompileInputs.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\main computer technical support program\computer technical support program\obj\Debug\computer technical support program.exe
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\main computer technical support program\computer technical support program\obj\Debug\computer technical support program.pdb
