@@ -1,0 +1,7 @@
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\reverse an array\reverse an array\bin\Debug\reverse an array.exe.config
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\reverse an array\reverse an array\bin\Debug\reverse an array.exe
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\reverse an array\reverse an array\bin\Debug\reverse an array.pdb
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\reverse an array\reverse an array\obj\Debug\reverse an array.csprojAssemblyReference.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\reverse an array\reverse an array\obj\Debug\reverse an array.csproj.CoreCompileInputs.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\reverse an array\reverse an array\obj\Debug\reverse an array.exe
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\reverse an array\reverse an array\obj\Debug\reverse an array.pdb
