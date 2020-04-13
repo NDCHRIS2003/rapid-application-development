@@ -1,0 +1,7 @@
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\sum average min max array\sum average min max array\bin\Debug\sum average min max array.exe.config
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\sum average min max array\sum average min max array\bin\Debug\sum average min max array.exe
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\sum average min max array\sum average min max array\bin\Debug\sum average min max array.pdb
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\sum average min max array\sum average min max array\obj\Debug\sum average min max array.csprojAssemblyReference.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\sum average min max array\sum average min max array\obj\Debug\sum average min max array.csproj.CoreCompileInputs.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\sum average min max array\sum average min max array\obj\Debug\sum average min max array.exe
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\sum average min max array\sum average min max array\obj\Debug\sum average min max array.pdb
