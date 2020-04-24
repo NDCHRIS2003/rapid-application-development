@@ -1,0 +1,10 @@
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\gui array search\gui array search\bin\Debug\gui array search.exe.config
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\gui array search\gui array search\bin\Debug\gui array search.exe
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\gui array search\gui array search\bin\Debug\gui array search.pdb
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\gui array search\gui array search\obj\Debug\gui array search.csprojAssemblyReference.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\gui array search\gui array search\obj\Debug\gui_array_search.MainForm.resources
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\gui array search\gui array search\obj\Debug\gui_array_search.Properties.Resources.resources
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\gui array search\gui array search\obj\Debug\gui array search.csproj.GenerateResource.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\gui array search\gui array search\obj\Debug\gui array search.csproj.CoreCompileInputs.cache
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\gui array search\gui array search\obj\Debug\gui array search.exe
+C:\Users\NDUBUISI OKPALA-PC\Desktop\C#\CPRG 200 C# Programs\gui array search\gui array search\obj\Debug\gui array search.pdb
